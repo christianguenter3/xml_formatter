@@ -1,0 +1,28 @@
+------WebKitFormBoundaryaExhdJjsvTcZzvht
+Content-Disposition: form-data; name="action"
+
+
+------WebKitFormBoundaryaExhdJjsvTcZzvht
+Content-Disposition: form-data; name="inputString"
+
+<x>DUMMY</x>
+------WebKitFormBoundaryaExhdJjsvTcZzvht
+Content-Disposition: form-data; name="inputUrl"
+
+http://www.example.com/myfile.xml
+------WebKitFormBoundaryaExhdJjsvTcZzvht
+Content-Disposition: form-data; name="indent"
+
+3spaces
+------WebKitFormBoundaryaExhdJjsvTcZzvht
+Content-Disposition: form-data; name="forceNewWindow"
+
+false
+------WebKitFormBoundaryaExhdJjsvTcZzvht--
+
+
+
+
+
+
+
